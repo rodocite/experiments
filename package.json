@@ -1,0 +1,29 @@
+{
+  "name": "mini1-todolist",
+  "version": "1.0.0",
+  "description": "Mini Project 1: Todo List ============",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodocite/mini1-todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodocite/mini1-todolist/issues"
+  },
+  "homepage": "https://github.com/rodocite/mini1-todolist#readme",
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-dropzone": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.23",
+    "babel-loader": "^5.3.2",
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.12.0"
+  }
+}
